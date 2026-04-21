@@ -1,0 +1,7 @@
+{
+  "pythonVersion": "3.12",
+  "venvPath": "pay_api",
+  "venv": ".venv",
+  "extraPaths": ["."],
+  "include": ["pay_api"]
+}
