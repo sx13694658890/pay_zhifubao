@@ -1,0 +1,6 @@
+# 密钥与本地配置（禁止提交 Git）
+pay_api/.env
+pay_api/支付钥匙.txt
+pay_api/alipayPublicKey_RSA2.txt
+pay_api/test.txt
+client_pay/node_modules
