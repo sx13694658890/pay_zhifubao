@@ -117,7 +117,7 @@ flowchart TB
         Q["主动查单 sync<br/>alipay.trade.query"]
         N2["异步 notify<br/>验签后更新"]
     end
-    subgraph Store["数据存储"]
+    subgraph Store["数据存储"] 
         DB2[(pay_transactions)]
     end
     subgraph Display["用户看到的结果"]
